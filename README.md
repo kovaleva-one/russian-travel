@@ -14,7 +14,7 @@
 
 **Ссылка на сайт**
 
-* [Ссылка на сайт](https://github.com/kovaleva-one/russian-travel.git)
+* [Ссылка на сайт](https://kovaleva-one.github.io/)
 
 **Какие выводы мы можем сделать?**
 
